@@ -51,9 +51,9 @@
   font-style: normal;
   font-display: swap;
 }
-
+//   --background: oklch(1 0 0);
 :root {
-  --background: oklch(1 0 0);
+  --background: oklch(251, 254, 25);
   --foreground: oklch(0.145 0 0);
   --primary: oklch(0.205 0 0);
   --primary-foreground: oklch(0.985 0 0);
